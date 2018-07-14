@@ -63,7 +63,7 @@ body {
       -ms-flex-align: stretch;
           align-items: stretch;
 }
-.wrapper header .inner_wrapper .navigation li a {
+.wrapper header .inner_wrapper .navigation a {
   padding: 10px 14px;
   color: #85423f;
   font: 18px NotoSansReg;
@@ -71,7 +71,7 @@ body {
   -o-transition: 0.4s ease;
   transition: 0.4s ease;
 }
-.wrapper header .inner_wrapper .navigation li a:hover {
+.wrapper header .inner_wrapper .navigation a:hover {
   background: #eb6c10;
   border-radius: 8px;
   color: #fff;
@@ -392,12 +392,12 @@ body {
       -ms-flex-align: stretch;
           align-items: stretch;
 }
-.wrapper .content .info .follow .info_nav li a {
+.wrapper .content .info .follow .info_nav a {
   color: #504f4f;
   font: 12px Arial;
   margin-right: 18px;
 }
-.wrapper .content .info .follow .info_nav li a:hover {
+.wrapper .content .info .follow .info_nav a:hover {
   color: #1e1e1e;
 }
 .wrapper .content .info .email .email_text {
